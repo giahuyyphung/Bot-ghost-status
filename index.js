@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["HQMT Gang 💎","HQMT Team ✅"];
+const statusMessages = ["HC Gang 💎","HQMT ✅", "HQMT Team 🎊"];
 
 
 let currentIndex = 0;
